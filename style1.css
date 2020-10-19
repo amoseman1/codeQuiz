@@ -1,0 +1,41 @@
+body {
+  font-family: "Advent Pro", sans-serif;
+  background-image: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png");
+}
+#questions {
+  /*styles the questions box div*/
+  background-color: rgb(197, 224, 214);
+  color: rgb(80, 77, 77);
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 5px;
+  border-style: outset;
+}
+
+h1 {
+  /*styles the main heading of the page*/
+  color: navy;
+  font-size: 50 px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#title {
+  /* styles the "question" text*/
+  text-align: center;
+  font-size: 30px;
+  color: rgb(29, 29, 150);
+}
+
+button {
+  width: 600px;
+  color: navy;
+  padding: 5px;
+  font-size: 35 px;
+}
